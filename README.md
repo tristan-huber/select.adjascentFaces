@@ -2,7 +2,7 @@
 
 # select.adjascentFaces
 
-![](/project.svg)
+![](/project.png)
 
 ## Inputs
 
